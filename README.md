@@ -1,4 +1,4 @@
-# SnapShot for Nolus Rila testnet. Updated every day at 00:01 UTC:
+# SnapShot for Nolus Rila testnet. Updated every day at 00:01 UTC (you can run as 'one command'):
 
 ```python
 sudo systemctl stop nolusd;\
